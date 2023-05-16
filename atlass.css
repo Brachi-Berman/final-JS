@@ -1,0 +1,10 @@
+body{
+    background-image: url(images/body-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Rajdhani', sans-serif;
+}
+main{
+    height: 100vh;
+}
